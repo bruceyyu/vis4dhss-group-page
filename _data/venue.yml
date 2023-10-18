@@ -19,3 +19,21 @@ CGA:
 SIGGRAPHAsia:
   full: Proceedings of the ACM SIGGRAPH ASIA Visualization Symposium
   short: SIGGRAPH Asia
+VISAP:
+  full: VISAP (IEEE VIS Arts Program)
+  short: VISAP
+VDS:
+  full: Visualization in Data Science (VDS at IEEE VIS)
+  short: VDS at IEEE VIS
+JCST:
+  full: Journal of Computer Science and Technology
+  short: JCST
+IJHCI:
+  full: International Journal of Human-Computer Interaction
+  short: IJHCI
+ChinaVis:
+  full: China Visualization and Visual Analytics Conference (ChinaVis) 
+  short: ChinaVis
+WI-IAT:
+  full: IEEE WIC ACM International Conference on Web Intelligence
+  short: WI-IAT

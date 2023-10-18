@@ -1,15 +1,15 @@
 ---
-layout: home 
-title: AI4VIS 
-subtitle: Empower data visualization with advanced AI techniques 
+layout: home
+title: VIS + DHSS
+subtitle: Visualization meets Digital Humanities and Social Sciences
 ---
 
 <div class="spacefill"></div>
 <div class="banner-container">
-    <div>
-        <!-- <h1>AI<span><i>for</i></span>VIS</h1> -->
-        <h1>AI4VIS</h1>
-        <h3><span>Visualization as Meta Data</span> <span>|</span> <span>Empower Data Visualization with AI</span></h3>
+    <div class="title">
+        <div style="letter-spacing: 0.4rem; font-size: 4rem; font-weight: bold">VIS<span><i>+</i></span>DHSS</div>
+        <div style="font-size: 1.5rem; font-style: italic;">Visualization meets Digital Humanities and Social Sciences
+        </div>
     </div>
 </div>
 <div class="wrapper">
@@ -17,10 +17,18 @@ subtitle: Empower data visualization with advanced AI techniques
         <div id="introduction">
             <h2 class="major-title"><span>About Us</span></h2>
             <p>
-                Following the recent development of artificial intelligence (AI) technology, there have been growing research interests and opportunities in applying AI to enhance data visualizations and enrich the way people engage with data.
+                Since the beginning of human stories, the humanities and social sciences have elegantly developed,
+                intertwining with our history from civilization's first light. The recent surge in digital humanities
+                and social sciences (DHSS) data, including digitized ancient texts and long-term surveys, presents both
+                challenges and opportunities to better comprehend cultural, historical, and human intricacies.
             </p>
-            <p> We, the AI4VIS research team in HKUST VisLab, are exploring AI-powered techniques for modelling, authoring, analysing, and interacting with data visualizations. In vision of formalizing visualizations as an emerging data format, we apply advanced
-                AI techniques to visualizations. We have diverse research interests such as visualization recommendation, information extraction from visualizations and automated layouting.</p>
+            <p> Our team have been working with experts in diverse disciplines, including history, sociology, political
+                science, and communication, to pioneer cutting-edge visual analytics techniques that facilitate the
+                understanding of complex social problems and cultural phenomena.
+                We have delved into an extensive array of topics, including but not limited to the protection of
+                cultural heritage, quantitative history, social mobility and inequality, the science of science, and so
+                on. We strive to make seminal contributions to research endeavors that utilize big data and
+                visualization to enhance studies in DHSS.</p>
         </div>
         <div class="banner-wrapper">
 
@@ -41,7 +49,8 @@ subtitle: Empower data visualization with advanced AI techniques
 
 
 
-    {% assign pubyears = site.data.publication | group_by:"year" %} {% for year in pubyears %} {%-assign yeartitle = year.name | floor-%}
+    {% assign pubyears = site.data.publication | group_by:"year" %} {% for year in pubyears %} {%-assign yeartitle =
+    year.name | floor-%}
     <h3 class="year" href="#y{{ year.name }}"><span> {{ yeartitle }} </span> </h3>
     {% for pub in year.items %} {% include publication.html pub=pub %} {% endfor %} {% endfor %}
 </div>
@@ -51,33 +60,4 @@ subtitle: Empower data visualization with advanced AI techniques
     {% include profile.html term="team" class="profile-image" %}
     <h2>Alumni</h2>
     {% include profile.html term="alumni" class="profile-image" %}
-</div>
-
-
-<div class="collaborators wrapper">
-    <h2 class="major-title"> <span>Collaborators</span></h2>
-    <div class="profile-container">
-        {% for people in site.data.team %} {% if people.role == "collaborator" %}
-        <div class="profile-card">
-            <!-- <a target="_blank" href="{{ people.url }}"> -->
-            <div class="profile-collaborator"><img src="{{ people.image }}" /></div>
-            <!-- <div>{{ people.name }}</div> -->
-            <!-- </a> -->
-        </div>
-        {% endif %} {% endfor %}
-    </div>
-
-
-</div>
-
-<div class="funding wrapper">
-    <h2 class="major-title"><span>Grants & Funding</span></h2>
-    <div>
-        {% for funding in site.data.funding %}
-        <span>"<b><a target="_blank" href="{{ funding.url }}">{{ funding.title }}</a></b>",</span>
-        <span>awarded by {{ funding.agent }} — {{ funding.scheme }}: {{ funding.id }}</span>
-        <span>
-            ({{ funding.award }}).
-        </span> {% endfor %}
-    </div>
 </div>

@@ -1,47 +1,11 @@
-- message: "Wakey-Wakey was accepted in ACM UIST! Make your cute animated text XD"
-  date: 2023-08-03
+- message: "Our VR system is presented in the 'China in Maps: 500 Years of Evolving Images' (地圖中國: 五百年的意象演化) exhibition of HKUST Library!"
+  date: 2023-10-11
   type: pub
 
-- message: "InkSight was accepted in IEEE VIS! Start to document your findings with ease!"
-  date: 2023-07-21
+- message: "NeighViz was accepted in VDS at IEEE VIS 2023!"
+  date: 2023-08-01
   type: pub
 
-- message: "DMiner was accepted in IEEE TVCG! Read more about dashboard mining."
-  date: 2023-02-22
-  type: pub
-
-- message: "Notable was accepted in ACM CHI."
-  date: 2023-01-18
-  type: pub
-
-- message: "Our ongoing project was funded by the Research Grants Council with 1M HKD."
-  date: 2022-07-05
-  type: fund
-
-- message: "Two papers were published on ACM CHI!"
-  date: 2021-12-15
-  type: pub
-
-- message: "Check our latest survey on AI4VIS (to appear in TVCG) to learn more about the emerging field!"
-  date: 2021-07-20
-  type: pub
-
-- message: "Two papers on visualization recommendation were accepted on IEEE VIS!"
-  date: 2021-07-01
-  type: pub
-
-- message: "Two papers of on AI for color design in vis were published in TVCG. Stay tuned for the VIS'21 presentation of *InfoColorizer*."
-  date: 2021-06-15
-  type: pub
-
-- message: "One paper on assessing chart aesthetics was accepted in CHI."
-  date: 2020-12-14
-  type: pub
-
-- message: "Two papers were accepted in VIS."
-  date: 2020-07-01
-  type: pub
-
-- message: "Three papers were accepted in VIS."
-  date: 2019-07-01
+- message: "Posts with no Response was accepted in IEEE VISAP (Pictorial and Artwork tracks)!"
+  date: 2023-07-01
   type: pub

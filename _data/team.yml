@@ -2,112 +2,40 @@
   url: http://huamin.org
   role: team
   image: ./assets/img/person/team/huamin.png
-  img: http://huamin.org/images/huamin_qu_new.jpg
   addr: Prof.
 
 
-- name: Haotian Li
-  url: https://haotian-li.com/
-  img: https://haotian-li.com/photo_2.jpg
-  image: ./assets/img/person/team/haotian.jpg
+- name: Jason Kam Kwai Wong
+  url: https://jasonwong.vision/
+  image: ./assets/img/person/team/jason.jpeg
   role: team
 
 
-- name: Linping Yuan
-  url: https://yuanlinping.github.io/
-  img: http://vis.cse.ust.hk/vislab_homepage/img/people/linping.jpg
-  image: ./assets/img/person/team/linping.png
+- name: Yifan Cao
+  url: https://hkust-cma.org/research-students/yifan-cao/
+  image: ./assets/img/person/team/yifan.jpeg
   role: team
   
 
 
-- name: Leo Yu-Ho Lo
-  url: https://leoyuholo.com/
-  image: ./assets/img/person/team/leo.jpg
-  img: http://vis.cse.ust.hk/vislab_homepage/img/people/leo.jpg
+- name: Yue Yu
+  url: https://bruceyyu.github.io/
+  image: ./assets/img/person/team/yuyue.jpeg
   role: team
-
-- name: Yanna Lin
-  url: https://yannahhh.github.io/
-  img: https://yannahhh.github.io/images/lala1.jpeg
-  image: ./assets/img/person/team/yanna.jpg
-  role: team
-
   
-- name: Wai Tong
-  url: http://home.cse.ust.hk/~wtong/
-  img: http://home.cse.ust.hk/~wtong/img/IMG_20180808_124343.jpg
-  image: ./assets/img/person/team/wai.jpeg
-  role: team
-
-# - name: Yuzhe Jiang
-#   url: http://yjiangbu.student.ust.hk/
-#   img: http://vis.cse.ust.hk/vislab_homepage/img/people/yuzhe.jpg
-#   image: ./assets/img/person/team/yuzhe.png
-#   role: team
-
-
-- name: Liwenhan Xie
-  url: https://shellywhen.github.io/
-  img: http://vis.cse.ust.hk/vislab_homepage/img/people/wenhan_2.jpg
-  image: ./assets/img/person/team/liwenhan.png
-  role: team
-
-- name: Aoyu Wu
-  url: https://wowjyu.github.io/
-  img: https://wowjyu.github.io/img/gallery19.5bfd1808.jpg
-  image: ./assets/img/person/team/aoyu.png
+- name: Yifang Wang
+  url: https://wangyifang.top/
+  image: ./assets/img/person/alumni/yifang.jpeg
   role: alumni
+  institute: Northwestern
   title: postdoc
-  institute: Harvard
-  
 
 - name: Xinhuan Shu
   url: https://shuxinhuan.github.io/
-  img: http://www.cse.ust.hk/~xshuaa/img/student.jpeg
-  image: ./assets/img/person/team/xinhuan.png
+  image: ./assets/img/person/alumni/xinhuan.png
   role: alumni
   institute: U. Edin
   title: postdoc
-
-- name: Zhutian Chen
-  url: https://chenzhutian.org/
-  image: ./assets/img/person/alumini/zhutian.png
-  role: alumni
-  institute: Harvard
-  title: postdoc
-
-- name: Qianwen Wang
-  url: https://qianwen.info/
-  img: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=jtSR4hoAAAAJ&citpid=1
-  image: ./assets/img/person/alumini/qianwen.png
-  role: alumni
-  institute: Harvard
-  title: postdoc
-
-- name: Yun Wang
-  url: https://www.microsoft.com/en-us/research/people/wangyun/
-  img: https://www.microsoft.com/en-us/research/uploads/prod/2019/04/unnamed-file.jpg
-  image: ./assets/img/person/alumini/yun.jpg
-  role: alumni
-  institute: MSRA
-  title: Senior Researcher
-
-- name: Yong Wang
-  url: http://www.yong-wang.org/
-  img: http://www.yong-wang.org/images/wangyong.png
-  image: ./assets/img/person/alumini/yong.png
-  role: alumni
-  institute: SMU
-  title: Assistant Professor
-
-- name: Weiwei Cui
-  url: https://www.microsoft.com/en-us/research/people/weiweicu/
-  role: alumni
-  img: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/03/weiweicu-e1459374782237.jpg
-  image: ./assets/img/person/alumini/weiwei-cui.jpg
-  institute: MSRA
-  title: Senior Researcher
 
 - name: MSR 
   image: ./assets/img/person/collaborator/msr.png
