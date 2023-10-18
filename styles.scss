@@ -1,0 +1,29 @@
+---
+---
+
+@charset "utf-8";
+$dark-gray: #404040;
+$slight-dark-gray: #6e6e6e;
+$extreme-light-gray: #ECEDF2;
+$super-light-gray: #f3f7fd;
+$highlight: #7c6857;
+$gray: #c0bebe;
+$ancient-bg-shalow: #f6f0e9;
+$ancient-bg-dark: #cdb796;
+.navbar-custom {
+    // background-color: black;
+    background-color: $ancient-bg-dark;
+}
+.nav-link {
+    :hover {
+        color: $highlight !important;
+    }
+    &.active {
+        color: $highlight !important;
+    }
+}
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import 
+    "layout",
+    "profile",
+    "publication";

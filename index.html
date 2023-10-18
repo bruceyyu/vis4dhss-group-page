@@ -1,0 +1,63 @@
+---
+layout: home
+title: VIS + DHSS
+subtitle: Visualization meets Digital Humanities and Social Sciences
+---
+
+<div class="spacefill"></div>
+<div class="banner-container">
+    <div class="title">
+        <div style="letter-spacing: 0.4rem; font-size: 4rem; font-weight: bold">VIS<span><i>+</i></span>DHSS</div>
+        <div style="font-size: 1.5rem; font-style: italic;">Visualization meets Digital Humanities and Social Sciences
+        </div>
+    </div>
+</div>
+<div class="wrapper">
+    <div class="flex-double-row">
+        <div id="introduction">
+            <h2 class="major-title"><span>About Us</span></h2>
+            <p>
+                Since the beginning of human stories, the humanities and social sciences have elegantly developed,
+                intertwining with our history from civilization's first light. The recent surge in digital humanities
+                and social sciences (DHSS) data, including digitized ancient texts and long-term surveys, presents both
+                challenges and opportunities to better comprehend cultural, historical, and human intricacies.
+            </p>
+            <p> Our team have been working with experts in diverse disciplines, including history, sociology, political
+                science, and communication, to pioneer cutting-edge visual analytics techniques that facilitate the
+                understanding of complex social problems and cultural phenomena.
+                We have delved into an extensive array of topics, including but not limited to the protection of
+                cultural heritage, quantitative history, social mobility and inequality, the science of science, and so
+                on. We strive to make seminal contributions to research endeavors that utilize big data and
+                visualization to enhance studies in DHSS.</p>
+        </div>
+        <div class="banner-wrapper">
+
+        </div>
+    </div>
+
+</div>
+<div id="news" class="wrapper">
+    <h2 class="major-title"><span>News</span></h2>
+    <div>
+        {% for news in site.data.news limit:8 %} {% include news.html news=news %} {% endfor %}
+    </div>
+
+</div>
+
+<div id="publication" class="wrapper">
+    <h2 class="major-title"><span>Articles</span></h2>
+
+
+
+    {% assign pubyears = site.data.publication | group_by:"year" %} {% for year in pubyears %} {%-assign yeartitle =
+    year.name | floor-%}
+    <h3 class="year" href="#y{{ year.name }}"><span> {{ yeartitle }} </span> </h3>
+    {% for pub in year.items %} {% include publication.html pub=pub %} {% endfor %} {% endfor %}
+</div>
+
+<div id="team" class="wrapper">
+    <h2>Current Members</h2>
+    {% include profile.html term="team" class="profile-image" %}
+    <h2>Alumni</h2>
+    {% include profile.html term="alumni" class="profile-image" %}
+</div>
