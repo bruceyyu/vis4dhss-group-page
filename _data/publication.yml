@@ -8,7 +8,7 @@
   - Tan Tang
   - Yingcai Wu
   id: tang2023posts
-  image: ./assets/img/project/Tang2023Posts.png
+  image: ./assets/img/project/tang2023posts.png
   title: 'Posts with no Response: The Island of Loneliness'
   venue: VISAP
   year: 2023
@@ -23,7 +23,7 @@
   - Yingcai Wu
   - Huamin Qu
   id: yu2023neighviz
-  image: ./assets/img/project/Yu2023NeighViz.png
+  image: ./assets/img/project/yu2023neighviz.png
   title: 'NeighViz: Towards Better Understanding of Neighborhood Effects on Social
     Groups with Spatial Data'
   venue: VDS
@@ -38,7 +38,7 @@
   - Luwei Wang
   - and Wei Chen
   id: zhang2023computational
-  image: ./assets/img/project/Zhang2023Computational.png
+  image: ./assets/img/project/zhang2023computational.png
   link: https://ca4tcp.com/
   title: 'Computational Approaches for Traditional Chinese Painting: From the "Six
     Principles of Painting" Perspective'
@@ -59,7 +59,7 @@
   - and Wei Chen
   doi: 10.1109/TVCG.2022.3209483
   id: zhang2023cohortva
-  image: ./assets/img/project/Zhang2023CohortVA.png
+  image: ./assets/img/project/zhang2023cohortva.png
   title: 'CohortVA: A Visual Analytic System for Interactive Exploration of Cohorts
     based on Historical Data'
   venue: TVCG
@@ -75,7 +75,7 @@
   - Mingming Fan
   doi: 10.1080/10447318.2023.2176806
   id: tian2022poeticar
-  image: ./assets/img/project/Tian2022PoeticAR.png
+  image: ./assets/img/project/tian2022poeticar.png
   title: 'PoeticAR: Reviving Traditional Poetry of the Heritage Site of Jichang Garden
     via Augmented Reality'
   venue: IJHCI
@@ -94,7 +94,7 @@
   - Huamin Qu
   doi: 10.1109/TVCG.2021.3067200
   id: wang2022interactive
-  image: ./assets/img/project/Wang2022Interactive.png
+  image: ./assets/img/project/wang2022interactive.png
   title: Interactive Visual Exploration of Longitudinal Historical Career Mobility
     Data
   venue: TVCG
@@ -110,7 +110,7 @@
   - Yingcai Wu
   doi: 10.1109/TVCG.2021.3114790
   id: wang2022seek
-  image: ./assets/img/project/Wang2022Seek.png
+  image: ./assets/img/project/wang2022seek.png
   title: 'Seek for Success: A Visualization Approach for Understanding the Dynamics
     of Academic Careers'
   venue: TVCG
@@ -127,7 +127,7 @@
   - and Wei Chen
   doi: 10.1007/s12650-021-00780-0
   id: feng2021ipoet
-  image: ./assets/img/project/Feng2021iPoet.png
+  image: ./assets/img/project/feng2021ipoet.png
   title: 'iPoet: interactive painting poetry creation with visual multimodal analysis'
   venue: ChinaVis
   year: 2021
@@ -140,7 +140,7 @@
   - Yingcai Wu
   doi: 10.1109/VISAP52981.2021.00014
   id: wang2021explore
-  image: ./assets/img/project/Wang2021Explore.png
+  image: ./assets/img/project/wang2021explore.png
   link: https://wangyifang.github.io/the-book-of-songs/
   title: 'Explore Mindfulness without Deflection: A Data Art Based on the Book of
     Songs'
@@ -154,7 +154,7 @@
   - Huamin Qu
   doi: 10.1109/TVCG.2017.2744080
   id: fu2018how
-  image: ./assets/img/project/Fu2018How.png
+  image: ./assets/img/project/fu2018how.png
   title: How Do Ancestral Traits Shape Family Trees Over Generations?
   venue: TVCG
   year: 2018
@@ -167,7 +167,7 @@
   - Weiwei Cui
   doi: 10.1109/TVCG.2016.2598465
   id: shen2016nameclarifier
-  image: ./assets/img/project/Shen2016NameClarifier.png
+  image: ./assets/img/project/shen2016nameclarifier.png
   title: 'NameClarifier: A Visual Analytics System for Author Name Disambiguation'
   venue: TVCG
   year: 2016
@@ -180,7 +180,7 @@
   - Huamin Qu
   doi: 10.1109/TVCG.2015.2468151
   id: wu2016egoslider
-  image: ./assets/img/project/Wu2016egoSlider.png
+  image: ./assets/img/project/wu2016egoslider.png
   title: 'egoSlider: Visual Analysis of Egocentric Network Evolution'
   venue: TVCG
   year: 2016
@@ -192,7 +192,7 @@
   - Huamin Qu
   doi: 10.1109/TVCG.2014.2346912
   id: shi2014loyaltracker
-  image: ./assets/img/project/Shi2014LoyalTracker.png
+  image: ./assets/img/project/shi2014loyaltracker.png
   title: 'LoyalTracker: Visualizing Loyalty Dynamics in Search Engines.'
   venue: TVCG
   year: 2014
@@ -205,7 +205,7 @@
   - Detan Si
   doi: 10.1145/2493102.2493108
   id: li2013visual
-  image: ./assets/img/project/Li2013Visual.png
+  image: ./assets/img/project/li2013visual.png
   title: Visual analysis of retweeting propagation network in a microblogging platform
   venue: VINCI
   year: 2013
@@ -219,7 +219,7 @@
   - Huamin Qu
   doi: 10.1109/TVCG.2013.221
   id: xu2013visual
-  image: ./assets/img/project/Xu2013Visual.png
+  image: ./assets/img/project/xu2013visual.png
   title: Visual Analysis of Topic Competition on Social Media
   venue: TVCG
   year: 2013
@@ -234,7 +234,7 @@
   - Qunsheng Peng
   doi: 10.1007/s11390-013-1378-5
   id: ma2013a
-  image: ./assets/img/project/Ma2013A.png
+  image: ./assets/img/project/ma2013a.png
   title: A Visual Analysis Approach for Community Detection of Multi-Context Mobile
     Social Networks
   venue: JCST
@@ -248,7 +248,7 @@
   - Huamin Qu
   doi: 10.1109/TVCG.2012.291
   id: cao2012whisper
-  image: ./assets/img/project/Cao2012Whisper.png
+  image: ./assets/img/project/cao2012whisper.png
   title: 'Whisper: Tracing the Spatiotemporal Process of Information Diffusion in
     Real Time'
   venue: TVCG
@@ -260,7 +260,7 @@
   - Huamin Qu
   doi: 10.1109/WI-IAT.2011.108
   id: wei2011impactwheel
-  image: ./assets/img/project/Wei2011ImpactWheel.png
+  image: ./assets/img/project/wei2011impactwheel.png
   title: 'ImpactWheel: Visual Analysis of the Impact of Online News'
   venue: WI-IAT
   year: 2011
