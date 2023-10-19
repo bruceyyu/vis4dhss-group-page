@@ -10,19 +10,17 @@
   image: ./assets/img/person/team/jason.jpeg
   role: team
 
-
 - name: Yifan Cao
   url: https://hkust-cma.org/research-students/yifan-cao/
   image: ./assets/img/person/team/yifan.jpeg
   role: team
-  
-
 
 - name: Yue Yu
   url: https://bruceyyu.github.io/
   image: ./assets/img/person/team/yuyue.jpeg
   role: team
   
+
 - name: Yifang Wang
   url: https://wangyifang.top/
   image: ./assets/img/person/alumni/yifang.jpeg
@@ -36,6 +34,13 @@
   role: alumni
   institute: U. Edin
   title: postdoc
+
+- name: Siwei Fu
+  url: https://fusiwei339.bitbucket.io/
+  image: ./assets/img/person/alumni/siwei.png
+  role: alumni
+  institute: Zhejiang Lab
+  title: research scientist
 
 - name: MSR 
   image: ./assets/img/person/collaborator/msr.png
