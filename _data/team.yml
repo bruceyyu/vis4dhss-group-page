@@ -42,55 +42,39 @@
   institute: Zhejiang Lab
   title: research scientist
 
-- name: MSR 
-  image: ./assets/img/person/collaborator/msr.png
-  role: collaborator
-
 # - name: MSRA
 #   image: ./assets/img/person/collaborator/logo_MSRA.png
 #   role: collaborator
-
-- name: INRIA 
-  image: ./assets/img/person/collaborator/inria.png
-  role: collaborator
-
-- name: Apple
-  image: ./assets/img/person/collaborator/apple.png
-  role: collaborator
-
-- name: Adobe Research
-  image: ./assets/img/person/collaborator/adobe.png
-  role: collaborator
-
-- name: CMU
-  image: ./assets/img/person/collaborator/cmu-red.png
-  role: collaborator
-
-- name: UCSD
-  image: ./assets/img/person/collaborator/ucsd.png
-  role: collaborator
 
 - name: Harvard
   image: ./assets/img/person/collaborator/harvard.png
   role: collaborator
 
-- name: Waterloo
-  image: ./assets/img/person/collaborator/waterloo.jpg
+- name: MSU
+  image: ./assets/img/person/collaborator/msu.png
+  role: collaborator
+
+- name: SUNY
+  image: ./assets/img/person/collaborator/suny.jpeg
+  role: collaborator
+  
+- name: Northwestern CSSI
+  image: ./assets/img/person/collaborator/nu.svg
+  role: collaborator
+
+- name: NYU Shanghai
+  image: ./assets/img/person/collaborator/nyush.png
   role: collaborator
 
 - name: CUHK
   image: ./assets/img/person/collaborator/cuhk.png
   role: collaborator
 
-- name: Monash
-  image: ./assets/img/person/collaborator/monash.png
-  role: collaborator
-
-- name: SMU
-  image: ./assets/img/person/collaborator/smu.png
-  role: collaborator
-
 - name: ZJU
   image: ./assets/img/person/collaborator/zju.png
+  role: collaborator
+
+- name: RUC IQH
+  image: ./assets/img/person/collaborator/ruc-iqh.png
   role: collaborator
 
